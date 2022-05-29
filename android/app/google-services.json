@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862357758999",
+    "project_id": "eatbits-b0f5e",
+    "storage_bucket": "eatbits-b0f5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862357758999:android:f4cbb83d7da48ba6332852",
+        "android_client_info": {
+          "package_name": "ekpewerechiebuka1.eatbits_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862357758999-urqmptd60d1m5ltvi934ulduhv9a6fgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuftzVP8RUnONrU_0d2A4q57ilj4f7MCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862357758999-urqmptd60d1m5ltvi934ulduhv9a6fgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
